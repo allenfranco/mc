@@ -1,2 +1,4 @@
 *.exe
 *.zip
+*.info
+*.DS_store
